@@ -1,0 +1,10 @@
+# Virtual env
+.env
+.venv/
+*.env
+
+# VSCode
+.vscode/
+
+# Other
+.DS_Store
