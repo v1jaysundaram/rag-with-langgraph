@@ -43,24 +43,30 @@ prompt_rag = PromptTemplate(
         Carefully use the context below to answer the question. 
         If the context does not contain enough information, respond clearly that you do not know the answer.
 
-        Question: {question}
+        Question: {query}
         Context: {context}""",
 
-        input_variables=['context', 'question']
+        input_variables=['context', 'query']
     )
 
 prompt_typo = PromptTemplate(
         template="""You are an expert AI assistant tasked with rewriting user queries to improve retrieval in a RAG system. 
 Given an original query, remove any typos and rewrite it to be free from any spelling mistakes.
 
-Original Query: {query}""") 
+Original Query: {query}""",
+
+        input_variables=['query']
+) 
 
 
 prompt_optimization = PromptTemplate(
         template="""You are an expert AI assistant tasked with optimizing user queries to improve retrieval in a RAG system. 
 Given a typo free query, generate a query that is broad and general, which can help retrieve relevant background information.
 
-Typo Free Query: {typofree_query}""")
+Typo Free Query: {typofree_query}""",
+
+        input_variables=['typofree_query']
+)
 
 
 # nodes
@@ -82,8 +88,8 @@ def retrieve(state: RagState):
     return {"docs": retrieved_docs, "context": docs_content}
 
 
-def augment(state: RagState):    
-    augmented_query = prompt_rag.invoke({"question": state["typofree_query"], "context": state["context"]})
+def augment(state: RagState):
+    augmented_query = prompt_rag.format(query=state["query"], context=state["context"])
     return {"augmented_query": augmented_query}
 
 
