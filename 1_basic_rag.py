@@ -80,7 +80,7 @@ workflow = graph.compile()
 
 
 # test run
-input_state = {"query": "What does large in large language model mean?"}
+input_state = {"query": "What are the steps involved in training a language model?"}
 
 response = workflow.invoke(input_state)
 print(response["answer"])

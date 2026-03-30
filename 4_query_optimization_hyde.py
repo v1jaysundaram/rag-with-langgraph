@@ -21,7 +21,7 @@ vector_store = FAISS.load_local(
 )
 
 # LLM
-llm = ChatOpenAI(model_name="gpt-4o")
+llm = ChatOpenAI(model_name="gpt-4o-mini")
 
 # ---------------------------
 # STATE
