@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/@vijai_sundaram"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube" alt="YouTube"/></a>
   <a href="https://www.linkedin.com/in/vijay-sundaram/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://x.com/VijaySundaram_"><img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x" alt="X"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/v1jaysundaram/rag-with-langgraph&title=Views" alt="Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=v1jaysundaram.rag-with-langgraph" alt="Views"/>
   <img src="https://img.shields.io/github/stars/v1jaysundaram/rag-with-langgraph?style=flat&color=yellow" alt="Stars"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat" alt="License"/>
 </p>
