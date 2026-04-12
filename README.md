@@ -13,7 +13,7 @@
 
 ---
 
-## Learn every major RAG technique hands-on - from basic retrieval to query optimization, context enrichment, and beyond
+## A hands-on guide to RAG techniques - from basic retrieval to query optimization, context enrichment, and beyond
 
 Each episode is a standalone Python script implementing one technique end-to-end, built with LangGraph, FAISS, and OpenAI.
 
@@ -28,9 +28,9 @@ Each episode is a standalone Python script implementing one technique end-to-end
 ## Prerequisites
 
 Before starting this series you should be comfortable with:
-- **LangChain / LangGraph** — chains, retrievers, state graphs
-- **Python** — functions, classes, type hints
-- **LLMs / Embeddings** — what they are and how they're used in RAG
+- **LangChain / LangGraph** - chains, retrievers, state graphs
+- **Python** - basics (you don't need to be an expert)
+- **LLMs / Embeddings** - what they are and how they're used in RAG
 
 ---
 
@@ -39,17 +39,17 @@ Before starting this series you should be comfortable with:
 | # | Category | Topic | Code | Video |
 |---|----------|-------|------|-------|
 | 01 | Foundations | Basic RAG | [📂 Code](./1_basic_rag.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 02 | Query Optimization | Query Optimization — Typo Correction + Broadening | [📂 Code](./2_query_optimizations.py) | [▶️ Watch](YOUR_VIDEO_URL) |
+| 02 | Query Optimization | Query Optimization - Typo Correction + Broadening | [📂 Code](./2_query_optimizations.py) | [▶️ Watch](YOUR_VIDEO_URL) |
 | 03 | Query Optimization | Sub-Query Decomposition | [📂 Code](./3_query_optimization_sub_query.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 04 | Query Optimization | HyDE — Hypothetical Document Embeddings | [📂 Code](./4_query_optimization_hyde.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 05 | Query Optimization | HyPE — Hypothetical Prompt Embeddings | [📂 Code](./5_query_optimization_hype.py) | [▶️ Watch](YOUR_VIDEO_URL) |
+| 04 | Query Optimization | HyDE - Hypothetical Document Embeddings | [📂 Code](./4_query_optimization_hyde.py) | [▶️ Watch](YOUR_VIDEO_URL) |
+| 05 | Query Optimization | HyPE - Hypothetical Prompt Embeddings | [📂 Code](./5_query_optimization_hype.py) | [▶️ Watch](YOUR_VIDEO_URL) |
 | 06 | Context Enrichment | Contextual Chunk Headers (CCH) | [📂 Code](./6_context_enrichment_cch.py) | [▶️ Watch](YOUR_VIDEO_URL) |
 | 07 | Context Enrichment | Context Window Enhancement | [📂 Code](./7_context_enrichment_context_window_enhancement.py) | [▶️ Watch](YOUR_VIDEO_URL) |
 | 08 | Context Enrichment | Semantic Chunking | [📂 Code](./8_context_enrichment_semantic_chunking.py) | [▶️ Watch](YOUR_VIDEO_URL) |
 | 09 | Context Enrichment | Contextual Compression | [📂 Code](./9_context_enrichment_contextual_compression.py) | [▶️ Watch](YOUR_VIDEO_URL) |
 | 10 | Retrieval Enhancement | LLM-based Reranking | [📂 Code](./10_retrieval_enhancement_reranking.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 11 | Retrieval Enhancement | MMR — Maximal Marginal Relevance | [📂 Code](./11_retrieval_enhancement_mmr.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| … | Advanced RAG | Coming Soon | — | — |
+| 11 | Retrieval Enhancement | MMR - Maximal Marginal Relevance | [📂 Code](./11_retrieval_enhancement_mmr.py) | [▶️ Watch](YOUR_VIDEO_URL) |
+| … | Advanced RAG | Coming Soon | - | - |
 
 > 📺 Follow along on [YouTube](https://www.youtube.com/@vijai_sundaram) for new episodes and future series.
 
