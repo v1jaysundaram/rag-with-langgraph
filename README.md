@@ -38,20 +38,20 @@ Before starting this series you should be comfortable with:
 
 | # | Category | Topic | Code | Video |
 |---|----------|-------|------|-------|
-| 01 | Foundations | Basic RAG | [📂 Code](./1_basic_rag.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 02 | Query Optimization | Query Optimization - Typo Correction + Broadening | [📂 Code](./2_query_optimizations.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 03 | Query Optimization | Sub-Query Decomposition | [📂 Code](./3_query_optimization_sub_query.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 04 | Query Optimization | HyDE - Hypothetical Document Embeddings | [📂 Code](./4_query_optimization_hyde.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 05 | Query Optimization | HyPE - Hypothetical Prompt Embeddings | [📂 Code](./5_query_optimization_hype.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 06 | Context Enrichment | Contextual Chunk Headers (CCH) | [📂 Code](./6_context_enrichment_cch.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 07 | Context Enrichment | Context Window Enhancement | [📂 Code](./7_context_enrichment_context_window_enhancement.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 08 | Context Enrichment | Semantic Chunking | [📂 Code](./8_context_enrichment_semantic_chunking.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 09 | Context Enrichment | Contextual Compression | [📂 Code](./9_context_enrichment_contextual_compression.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 10 | Retrieval Enhancement | LLM-based Reranking | [📂 Code](./10_retrieval_enhancement_reranking.py) | [▶️ Watch](YOUR_VIDEO_URL) |
-| 11 | Retrieval Enhancement | MMR - Maximal Marginal Relevance | [📂 Code](./11_retrieval_enhancement_mmr.py) | [▶️ Watch](YOUR_VIDEO_URL) |
+| 01 | Foundations | Basic RAG | [📂 Code](./1_basic_rag.py) | [▶️ Watch](https://youtu.be/OA0GZ2u7r0o) |
+| 02 | Query Optimization | Query Optimization - Typo Correction + Broadening | [📂 Code](./2_query_optimizations.py) | [▶️ Watch](https://youtu.be/cTazfZPhq0I) |
+| 03 | Query Optimization | Sub-Query Decomposition | [📂 Code](./3_query_optimization_sub_query.py) | [▶️ Watch](https://youtu.be/ilgZFoVauAw) |
+| 04 | Query Optimization | HyDE - Hypothetical Document Embeddings | [📂 Code](./4_query_optimization_hyde.py) | [▶️ Watch](https://youtu.be/yWsTKzXFtWk) |
+| 05 | Query Optimization | HyPE - Hypothetical Prompt Embeddings | [📂 Code](./5_query_optimization_hype.py) | [▶️ Watch](https://youtu.be/aWkdgEx3Q0E) |
+| 06 | Context Enrichment | Contextual Chunk Headers (CCH) | [📂 Code](./6_context_enrichment_cch.py) | [▶️ Watch](https://youtu.be/azmbT-2hOGI) |
+| 07 | Context Enrichment | Context Window Enhancement | [📂 Code](./7_context_enrichment_context_window_enhancement.py) | [▶️ Watch](https://youtu.be/O828hUrNX4c) |
+| 08 | Context Enrichment | Semantic Chunking | [📂 Code](./8_context_enrichment_semantic_chunking.py) | [▶️ Watch](https://youtu.be/8mgxSS4Ydzk) |
+| 09 | Context Enrichment | Contextual Compression | [📂 Code](./9_context_enrichment_contextual_compression.py) | [▶️ Watch](https://youtu.be/M_sCZAESfbM) |
+| 10 | Retrieval Enhancement | Reranking | [📂 Code](./10_retrieval_enhancement_reranking.py) | [▶️ Watch](https://youtu.be/vdP7z4-DBZE) |
+| 11 | Retrieval Enhancement | MMR - Maximal Marginal Relevance | [📂 Code](./11_retrieval_enhancement_mmr.py) | [▶️ Watch](https://youtu.be/R39ISQM7Cow) |
 | … | Advanced RAG | Coming Soon | - | - |
 
-> 📺 Follow along on [YouTube](https://www.youtube.com/@vijai_sundaram) for new episodes and future series.
+> 📺 Check out the full playlist on [YouTube](https://youtube.com/playlist?list=PLEHeb1HGikpRX0---E12X1hyt5yOFlz_6&si=VZ1juRxP4uVo-DCb).
 
 ---
 
