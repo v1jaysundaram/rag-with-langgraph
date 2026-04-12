@@ -45,8 +45,8 @@ Before starting this series you should be comfortable with:
 | 05 | Query Optimization | HyPE - Hypothetical Prompt Embeddings | [📂 Code](./5_query_optimization_hype.py) | [▶️ Watch](https://youtu.be/aWkdgEx3Q0E) |
 | 06 | Context Enrichment | Contextual Chunk Headers (CCH) | [📂 Code](./6_context_enrichment_cch.py) | [▶️ Watch](https://youtu.be/azmbT-2hOGI) |
 | 07 | Context Enrichment | Context Window Enhancement | [📂 Code](./7_context_enrichment_context_window_enhancement.py) | [▶️ Watch](https://youtu.be/O828hUrNX4c) |
-| 08 | Context Enrichment | Semantic Chunking | [📂 Code](./8_context_enrichment_semantic_chunking.py) | [▶️ Watch](https://youtu.be/8mgxSS4Ydzk) |
-| 09 | Context Enrichment | Contextual Compression | [📂 Code](./9_context_enrichment_contextual_compression.py) | [▶️ Watch](https://youtu.be/M_sCZAESfbM) |
+| 08 | Context Enrichment | Semantic Chunking | [📂 Code](./8_context_enrichment_semantic_chunking.py) | [▶️ Watch](https://youtu.be/M_sCZAESfbM) |
+| 09 | Context Enrichment | Contextual Compression | [📂 Code](./9_context_enrichment_contextual_compression.py) | [▶️ Watch](https://www.youtube.com/watch?v=8mgxSS4Ydzk) |
 | 10 | Retrieval Enhancement | Reranking | [📂 Code](./10_retrieval_enhancement_reranking.py) | [▶️ Watch](https://youtu.be/vdP7z4-DBZE) |
 | 11 | Retrieval Enhancement | MMR - Maximal Marginal Relevance | [📂 Code](./11_retrieval_enhancement_mmr.py) | [▶️ Watch](https://youtu.be/R39ISQM7Cow) |
 | … | Advanced RAG | Coming Soon | - | - |
