@@ -25,6 +25,15 @@ Each episode is a standalone Python script implementing one technique end-to-end
 
 ---
 
+## Prerequisites
+
+Before starting this series you should be comfortable with:
+- **LangChain / LangGraph** — chains, retrievers, state graphs
+- **Python** — functions, classes, type hints
+- **LLMs / Embeddings** — what they are and how they're used in RAG
+
+---
+
 ## Episodes
 
 | # | Category | Topic | Code | Video |
@@ -46,18 +55,9 @@ Each episode is a standalone Python script implementing one technique end-to-end
 
 ---
 
-## Prerequisites
-
-Before starting this series you should be comfortable with:
-- **LangChain / LangGraph** — chains, retrievers, state graphs
-- **Python** — functions, classes, type hints
-- **LLMs / Embeddings** — what they are and how they're used in RAG
-
----
-
 ## License
 
-MIT © Vijay
+MIT © Vijay Sundaram Mohana
 
 ---
 
@@ -65,7 +65,7 @@ MIT © Vijay
 
 If you found this series helpful, a ⭐ on the repo goes a long way.
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/@vijai_sundaram">YouTube</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/vijay-sundaram/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://x.com/VijaySundaram_">X</a>
