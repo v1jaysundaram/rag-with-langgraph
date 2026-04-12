@@ -1,11 +1,6 @@
-# Virtual env
-.env
-.venv/
-*.env
-
-# VSCode
-.vscode/
-
-# Other
-.DS_Store
 CLAUDE.md
+.env
+__pycache__/
+*.pyc
+venv/
+rag_embeddings*/
