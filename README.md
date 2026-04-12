@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_YOUTUBE_CHANNEL_URL"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube" alt="YouTube"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x" alt="X"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/USERNAME/rag-with-langgraph&title=Views" alt="Views"/>
-  <img src="https://img.shields.io/github/stars/USERNAME/rag-with-langgraph?style=flat&color=yellow" alt="Stars"/>
+  <a href="https://www.youtube.com/@vijai_sundaram"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/vijay-sundaram/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://x.com/VijaySundaram_"><img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x" alt="X"/></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/v1jaysundaram/rag-with-langgraph&title=Views" alt="Views"/>
+  <img src="https://img.shields.io/github/stars/v1jaysundaram/rag-with-langgraph?style=flat&color=yellow" alt="Stars"/>
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat" alt="License"/>
 </p>
 
 ---
 
-## Learn every major RAG technique hands-on — from basic retrieval to query optimization, context enrichment, and beyond
+## Learn every major RAG technique hands-on - from basic retrieval to query optimization, context enrichment, and beyond
 
 Each episode is a standalone Python script implementing one technique end-to-end, built with LangGraph, FAISS, and OpenAI.
 
@@ -64,7 +64,7 @@ Each episode is a standalone Python script implementing one technique end-to-end
 |---|-------|------|-------|
 | … | Coming Soon | — | — |
 
-> New episodes drop regularly — [subscribe to get notified](YOUR_YOUTUBE_CHANNEL_URL)
+> 📺 Follow along on [YouTube](https://www.youtube.com/@vijai_sundaram) for new episodes and future series.
 
 ---
 
@@ -79,20 +79,9 @@ MIT © Vijay
 If you found this series helpful, a ⭐ on the repo goes a long way.
 
 <p align="center">
-  <a href="YOUR_YOUTUBE_CHANNEL_URL">YouTube</a> &nbsp;·&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="YOUR_X_URL">X</a>
+  <a href="https://www.youtube.com/@vijai_sundaram">YouTube</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vijay-sundaram/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/VijaySundaram_">X</a>
 </p>
 
 ---
-
-<details>
-<summary>Setting up badges & license</summary>
-
-**Stars badge** — replace `USERNAME/rag-with-langgraph` with your actual GitHub `username/repo`. The count is pulled live from GitHub automatically once the repo is public. No setup needed.
-
-**Views badge** — uses [hits.seeyoufarm.com](https://hits.seeyoufarm.com). Replace the `url=` parameter with your full GitHub repo URL. Every README page load increments the counter. No sign-up needed.
-
-**MIT License** — create a `LICENSE` file in the repo root. Use the standard MIT text from [choosealicense.com/licenses/mit](https://choosealicense.com/licenses/mit/) and substitute the year and your name. GitHub will auto-detect it and the badge will reflect it. To have the badge auto-read from your LICENSE file, swap the static badge for `https://img.shields.io/github/license/USERNAME/rag-with-langgraph`.
-
-</details>
