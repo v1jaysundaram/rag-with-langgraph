@@ -15,13 +15,13 @@
 
 ## A hands-on guide to RAG techniques using LangGraph.
 
-Each episode is a standalone Python script implementing one RAG technique end-to-end - from basic retrieval to query optimization, context enrichment, and beyond. Built with LangGraph, FAISS, and OpenAI.
+Each episode is a standalone Python script implementing one RAG technique end-to-end - from basic retrieval to query optimization, context enrichment, agentic pipelines, and beyond. Built with LangGraph, FAISS, and OpenAI.
 
 ---
 
 ## Concepts Covered
 
-`HyDE` · `HyPE` · `Sub-Query Decomposition` · `Semantic Chunking` · `Contextual Compression` · `Contextual Chunk Headers` · `Reranking` · `MMR` · `Context Window Enhancement`
+`HyDE` · `HyPE` · `Sub-Query Decomposition` · `Semantic Chunking` · `Contextual Compression` · `Contextual Chunk Headers` · `Reranking` · `MMR` · `Context Window Enhancement` · `Corrective RAG (CRAG)`
 
 ---
 
@@ -49,7 +49,8 @@ Before starting this series you should be comfortable with:
 | 09 | Context Enrichment | Contextual Compression | [📂 Code](./9_context_enrichment_contextual_compression.py) | [▶️ Watch](https://www.youtube.com/watch?v=8mgxSS4Ydzk) |
 | 10 | Retrieval Enhancement | Reranking | [📂 Code](./10_retrieval_enhancement_reranking.py) | [▶️ Watch](https://youtu.be/vdP7z4-DBZE) |
 | 11 | Retrieval Enhancement | MMR - Maximal Marginal Relevance | [📂 Code](./11_retrieval_enhancement_mmr.py) | [▶️ Watch](https://youtu.be/R39ISQM7Cow) |
-| … | Advanced RAG | Coming Soon | - | - |
+| **—** | **Agentic** | | | |
+| 12 | Agentic | Corrective RAG (CRAG) | [📂 Code](./12_agentic_crag.py) | [▶️ Watch](https://youtu.be/dd2UwZ81GkU) |
 
 > 📺 Check out the full playlist on [YouTube](https://youtube.com/playlist?list=PLEHeb1HGikpRX0---E12X1hyt5yOFlz_6&si=VZ1juRxP4uVo-DCb)
 
