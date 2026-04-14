@@ -49,7 +49,6 @@ Before starting this series you should be comfortable with:
 | 09 | Context Enrichment | Contextual Compression | [📂 Code](./9_context_enrichment_contextual_compression.py) | [▶️ Watch](https://www.youtube.com/watch?v=8mgxSS4Ydzk) |
 | 10 | Retrieval Enhancement | Reranking | [📂 Code](./10_retrieval_enhancement_reranking.py) | [▶️ Watch](https://youtu.be/vdP7z4-DBZE) |
 | 11 | Retrieval Enhancement | MMR - Maximal Marginal Relevance | [📂 Code](./11_retrieval_enhancement_mmr.py) | [▶️ Watch](https://youtu.be/R39ISQM7Cow) |
-| **—** | **Agentic** | | | |
 | 12 | Agentic | Corrective RAG (CRAG) | [📂 Code](./12_agentic_crag.py) | [▶️ Watch](https://youtu.be/dd2UwZ81GkU) |
 
 > 📺 Check out the full playlist on [YouTube](https://youtube.com/playlist?list=PLEHeb1HGikpRX0---E12X1hyt5yOFlz_6&si=VZ1juRxP4uVo-DCb)
